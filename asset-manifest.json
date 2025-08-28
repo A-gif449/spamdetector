@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spamdetector/static/css/main.1aaaec2e.css",
+    "main.js": "/spamdetector/static/js/main.e4390d43.js",
+    "static/js/453.583294f8.chunk.js": "/spamdetector/static/js/453.583294f8.chunk.js",
+    "index.html": "/spamdetector/index.html",
+    "main.1aaaec2e.css.map": "/spamdetector/static/css/main.1aaaec2e.css.map",
+    "main.e4390d43.js.map": "/spamdetector/static/js/main.e4390d43.js.map",
+    "453.583294f8.chunk.js.map": "/spamdetector/static/js/453.583294f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aaaec2e.css",
+    "static/js/main.e4390d43.js"
+  ]
+}
